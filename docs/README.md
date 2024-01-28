@@ -1,4 +1,4 @@
-# Documentation for Climbing Route Planner and Tracker App
+# Documentation for Rock Climbing Community
 
 This directory contains the documentation for the Climbing Route Planner and Tracker application. The documents here provide detailed insights into the app's design, functionality, and development process.
 
