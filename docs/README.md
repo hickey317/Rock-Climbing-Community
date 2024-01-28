@@ -8,9 +8,12 @@ This directory contains the documentation for the Climbing Route Planner and Tra
    - `Project_Requirements.pdf`: The comprehensive requirement document in PDF format.
    - `Project_Requirements.md`: The Markdown version of the requirement document, ideal for viewing directly on GitHub.
 
+2. **Website Map**
+   - `Website_Map.md`: A detailed map of the website structure and navigation for the Rock Climbing Community App.
+
 ## Viewing the Documents
 
-- You can view the Markdown document directly in GitHub by clicking on the `Project_Requirements.md` file.
+- You can view the Markdown documents directly in GitHub by clicking on the respective `.md` files.
 - To view the PDF, you can download `Project_Requirements.pdf` to your local system and open it with any standard PDF reader.
 
 ## Additional Information
@@ -22,4 +25,4 @@ Thank you for your interest in our project!
 
 ---
 
-*Last Updated: 2023 01 15*
+*Last Updated: 2023 01 28*
