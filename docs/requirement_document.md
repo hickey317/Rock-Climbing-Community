@@ -22,6 +22,8 @@
   - Route Database and Information: Details about climbing routes.
   - Route Visualization: 2D representation of climbing routes.
   - Basic Social Interaction: Likes and comments on routes and videos.
+  - Climbing Log: Record climbing time, rest time, difficulty, completion, etc.
+  - My Climbing Page: Display personal climbing records and achievements.
 - **Should Have** :
   - Follow Functionality: Ability to follow other climbers.
   - Route Rating and Review System.
