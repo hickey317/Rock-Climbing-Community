@@ -7,6 +7,7 @@
     - Bouldering: VB – V13+
     - Top Rope: 1 – 9c
 - **List of Route Images**: Choose individual routes for more details.
+- **One Unique Route**: One route User clicked.
 - **Notes (Pop-up)**: Add notes about Difficulty, Attempt number, User, Date, Quality, Note, and option to Upload video.
 
 ## Video Page (Homepage)
